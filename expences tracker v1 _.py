@@ -4,7 +4,7 @@ while True :
     name = input(" your product name and 'done' to calculate : ")
     if name.lower() == 'done' :
         break 
-    category = input(" the category of your product : ")
+    category = input(" the category of your product : ")      # 3 weeks and 4 days of coding 
     price = int(input(" the price : "))
     expences[name] = { "category" : category , "price" : price }
 
