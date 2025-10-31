@@ -12,3 +12,7 @@ Calculate total, average, max, and min expenses
 Concepts
 
 Nested Dictionaries • Loops • max() / min() • sum()
+
+in v2 
+
+sum by category 
