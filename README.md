@@ -1,6 +1,6 @@
 Expense Tracker v1
 
-Two Python scripts to record and analyze expenses using dictionaries.
+python script to record and analyze expenses using  nested dictionaries
 
 Features
 
